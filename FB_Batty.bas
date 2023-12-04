@@ -172,7 +172,7 @@ ScreenSet 0:cls
 ' que hacen 7*15*4=420 bytes
 ' el primero es el numero de bloque, de 0 a 39 (los ladrillos son bloques de 32x16 pixel)
 Dim As Integer inicio_pantallas
-Open "datos\batty.exe" For Binary Access Read As 1
+Open "Batty-arm.exe" For Binary Access Read As 1
 	inicio_pantallas=&h4B98 +1
 	sc="    "' de 4 en 4 bytes, o sea, de bloque en bloque
 	a=0
