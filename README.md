@@ -12,4 +12,4 @@ Se necesita el juego original, descargable de:
 
 https://www.mobyware.org/pocket-pc-os/batty-by-daniel-jackson-get-26796.html
 
-Colocar el "Batty-arm.exe" en la misma carpta, y listo nada mas.
+Colocar el "Batty-arm.exe" en la misma carpeta, y listo nada mas.
